@@ -1,39 +1,24 @@
-![counter](https://[YourEndpoint].m.pipedream.net)
+<h1 align="center">My name is Ovidiu Ceoca</h1>
+<h3 align="center">I am a highly motivated and hardworking student at the Faculty of Automation and Computer Science within the Technical University of Cluj-Napoca, Romania who is seeking a challenging projects in order to learn new skills, expand my knowledge and meet new people with different perspectives for a bright future.</h3>
 
-# Ceoca Ovidiu
+<br>
 
-Description from CV 
+- 🔭 I’m currently working on **a React project**
 
-# Tools
+- 🌱 I’m currently learning **React, D3.js**
 
-<img src="images/vscode.png" alt="vscode" style="width:30px;height:30px; padding:10px" href="https://code.visualstudio.com/">
-<img src="images/intellij.png" alt="intellij" style="width:30px;height:30px; padding:10px" href="https://www.jetbrains.com/idea/">
-<img src="images/pycharm.png" alt="pycharm" style="width:30px;height:30px; padding:10px" href="https://www.jetbrains.com/pycharm/">
-<img src="images/webstorm.png" alt="webstorm" style="width:30px;height:30px; padding:10px" href="https://www.jetbrains.com/webstorm/">
-<img src="images/androidstudio.png" alt="webstorm" style="width:30px;height:30px; padding:10px" href="https://developer.android.com/studio?gclid=EAIaIQobChMI6ozkjdGW-QIViL7tCh1_yQ8SEAAYASAAEgICtfD_BwE&gclsrc=aw.ds">
-<img src="images/visualstudio.png" alt="webstorm" style="width:30px;height:30px; padding:10px" href="https://visualstudio.microsoft.com/">
+- 📫 How to reach me **ceoca.ovidiu@gmail.com**
 
-# Technologies
+- ⚡ Fun fact **I like otters 🦦**
 
-<img src="images/python.png" alt="python" style="width:30px;height:30px; padding:10px" href="https://www.python.org/">
-<img src="images/java.png" alt="java" style="width:30px;height:50px; padding:10px" href="https://www.java.com/en/">
-<img src="images/javascript.png" alt="javascript" style="width:30px;height:30px; padding:10px">
-<img src="images/git.png" alt="git" style="width:30px;height:30px; padding:10px">
-<img src="images/docker.png" alt="docker" style="width:50px;height:30px; padding:10px">
-<img src="images/kafka.png" alt="kafka" style="width:30px;height:30px; padding:10px">
-<img src="images/kubernetes.png" alt="kubernetes" style="width:30px;height:30px; padding:10px">
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ovidiu-ceoca-0314ab223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ovidiu-ceoca-0314ab223/" height="30" width="40" /></a>
+</p>
 
-# Stats:
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceoca-ovidiu&show_icons=true&locale=en&layout=compact" alt="ceoca-ovidiu" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceoca-ovidiu&show_icons=true)
-
-# Top Langs:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceoca-ovidiu)](https://github.com/anuraghazra/github-readme-stats)
-
-# Contact
-
-<center>
-    <img src="images/linkedin.png" alt="linkedin" style="width:30px;height:30px; padding:10px; border-right:1px solid #000; border-left: 1px solid #000" href="">
-    <img src="images/instagram.png" alt="instagram" style="width:30px;height:30px; padding:10px; border-right:1px solid #000" href="">
-</center>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceoca-ovidiu&show_icons=true&locale=en" alt="ceoca-ovidiu" /></p>
