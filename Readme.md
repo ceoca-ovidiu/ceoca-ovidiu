@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TlK63EQwHQC4zauPPTq/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/TlK63EQwHQC4zauPPTq/giphy.gif" width="500"/>
 </div>
 <h1 align="center">Hi 👋, I'm Ovidiu Ceoca</h1>
 <h3 align="center">I am a highly motivated and hardworking student at the Faculty of Automation and Computer Science within the Technical University of Cluj-Napoca, Romania, who is seeking a challenging projects in order to learn new skills, expand my knowledge and meet new people with different future perspectives.</h3>
